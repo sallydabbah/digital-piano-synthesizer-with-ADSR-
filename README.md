@@ -12,3 +12,4 @@ in file .ZIP attached here you will find a Synthesizer that plays a midi file by
   
 * a pitch detection is added , using Auto-Coorelation, Gaussian filter , FFT,ZeroCrossing in order to imply Piano Note Recognition.
 you need to load an audio file (.mp3) and after that click on Playbutton in the right side of the .mlapp file.
+Copyright (c) Winter - 2019 Sally Dabbah
